@@ -1,0 +1,14 @@
+.gradle/
+.idea/
+# Ignore gradle wrapper jar
+gradle/wrapper/gradle-wrapper.jar
+
+# Ignore gradle wrapper properties
+gradle/wrapper/gradle-wrapper.properties
+
+# Ignore gradle executable script
+gradlew
+
+# Ignore gradle batch script
+gradlew.bat
+
